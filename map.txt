@@ -1,0 +1,4 @@
+ks221 Staff,Student,Visitor,Cleaner,Manager,Security,LectureHallNormal
+ks222 Staff,Student,Cleaner,Manager,Security,TeachingRoomNormal
+ks223 Staff,Cleaner,Manager,Security,StaffRoomNormal
+ks224 Security,Manager,SecureRoomNormal
