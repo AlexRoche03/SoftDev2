@@ -1,7 +1,7 @@
 ﻿  SoftDev - Assignment2.cpp
 C:\Users\Alexander Roche\source\repos\SoftDev2\SoftDev - Assignment2.cpp(368,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\Alexander Roche\source\repos\SoftDev2\SoftDev - Assignment2.cpp(529,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Alexander Roche\source\repos\SoftDev2\SoftDev - Assignment2.cpp(650,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Alexander Roche\source\repos\SoftDev2\SoftDev - Assignment2.cpp(795,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Alexander Roche\source\repos\SoftDev2\SoftDev - Assignment2.cpp(980,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alexander Roche\source\repos\SoftDev2\SoftDev - Assignment2.cpp(648,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alexander Roche\source\repos\SoftDev2\SoftDev - Assignment2.cpp(793,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alexander Roche\source\repos\SoftDev2\SoftDev - Assignment2.cpp(979,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   SoftDev - Assignment2.vcxproj -> C:\Users\Alexander Roche\source\repos\SoftDev2\x64\Debug\SoftDev - Assignment2.exe
